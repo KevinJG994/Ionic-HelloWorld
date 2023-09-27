@@ -1,0 +1,40 @@
+
+#titulo{
+    display: block;
+    text-align: center;
+    color: rgb(26, 23, 19);
+}
+
+#contenido{
+    margin: 20px;
+    padding: 20px;
+    display: block;
+    text-align: center;
+}
+
+
+button{
+    display: inline-block;
+    border: solid 15px black;
+    width: 150px;
+    height: 40px;
+    margin: 5px;
+    background-color: white;
+    color: black;
+}
+
+#rojo:hover {
+    background-color: rgb(173, 49, 45);
+    color: white;
+}
+
+#azul:hover {
+    background-color: rgb(63, 48, 199);
+    color: white;
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    align-items: center;
+    color: lightslategray;
+}
